@@ -38,7 +38,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   </nav>
 
   <div class="my-view" style="background-image: url("images/maxresdefault.jpg");">
-    <div class="my-view-block">
+    <div class="my-view-block" id="alpha">
       <div 
         style="
           text-align: center; 
@@ -71,7 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </div>
 
-    <div class="my-view-block">
+    <div class="my-view-block" id="bravo">
       <div 
         style="
           text-align: left; 
@@ -120,7 +120,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </div>
 
-    <div class="my-view-block">
+    <div class="my-view-block" id="charlie">
       <div 
         style="
           text-align: right; 
@@ -169,7 +169,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </div>
     </div>
 
-    <div class="my-view-block">
+    <div class="my-view-block" id="delta">
       <div 
         style="
           text-align: center; 

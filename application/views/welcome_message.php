@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </head>
 <body>
 	  <nav>
-    <div class="nav-wrapper">
+    <div class="nav-wrapper grey darken-3">
       <a href="#" class="brand-logo">DRUG NOTICE</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="sass.html">Home</a></li>
@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
   </nav>
 
-<div class="my-sidenav card">
+<div class="my-sidenav card grey lighten-1">
   <div class="card-content">
     <a class="my-sidenav-link waves-effect waves-teal btn-flat">1</a>
     <a class="my-sidenav-link waves-effect waves-teal btn-flat">2</a>

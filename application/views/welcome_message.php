@@ -85,6 +85,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             padding-top: 20px;
             padding-left: 20%;"
 
+
+
         >
 
         There were a total of
@@ -100,7 +102,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
         5,402 drug users admitted
 
+
         </h1>
+
 
         <h3 
           style="
@@ -131,7 +135,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             padding-top: 20px;
             padding-right: 20%;"
 
+
         >
+
 
         Among the substances abused were
 
@@ -177,6 +183,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             padding-top: 20px;"
         >
 
+
         Learn more about drug abuse
 
         </h3>
@@ -188,7 +195,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             font-size: 50px;"
         >
 
+
         NOW
+
 
         </h1>
 

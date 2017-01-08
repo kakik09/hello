@@ -240,5 +240,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </a>
   </div>
 </div>
+
+<div class="fixed-action-btn">
+    <a class="btn-floating btn-large red">
+      <i class="large material-icons">UP</i>
+    </a>
+    <ul>
+      <li><a class="btn-floating red"><i class="material-icons">Ar</i></a></li>
+      <li><a class="btn-floating yellow darken-1"><i class="material-icons">Pro</i></a></li>
+      <li><a class="btn-floating green"><i class="material-icons">Inst</i></a></li>
+      <li><a class="btn-floating blue"><i class="material-icons">News</i></a></li>
+    </ul>
+  </div>
+
 </body>
 </html>

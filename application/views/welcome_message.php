@@ -5,6 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <head>
 	<!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+  <link rel="stylesheet" href="resources/home.css">
 
   <!-- Compiled and minified JavaScript -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
@@ -23,6 +24,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       </ul>
     </div>
   </nav>
+
+<div class="my-sidenav card">
+  <div class="card-content">
+    <a class="my-sidenav-link waves-effect waves-teal btn-flat">1</a>
+    <a class="my-sidenav-link waves-effect waves-teal btn-flat">2</a>
+    <a class="my-sidenav-link waves-effect waves-teal btn-flat">3</a>
+    <a class="my-sidenav-link waves-effect waves-teal btn-flat">4</a>
+  </div>
+</div>
 
 </body>
 </html>

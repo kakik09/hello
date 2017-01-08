@@ -37,7 +37,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
   </nav>
 
-  <div class="my-view" style="background-image: url("images/maxresdefault.jpg");">
+  <div class="my-view" style="background-image: url('images/maxresdefault.jpg');">
     <div class="my-view-block" id="alpha">
       <div 
         style="

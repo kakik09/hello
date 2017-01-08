@@ -13,7 +13,7 @@ nav {
 .my-sidenav-content {
   display: flex;
   flex-direction: column;
-  padding: 0;
+  padding: 0 !important;
 }
 
 .my-sidenav-link {
@@ -21,7 +21,6 @@ nav {
 }
 
 .my-view {
-  background-image: url("images/maxresdefault.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,11 +30,13 @@ nav {
 .my-view-block {
   height: 100vh;
   font-family: Poppins; 
-  background-color: #000000;
-  color: white;
 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.my-view-block > div {
+  width: 100%;
 }

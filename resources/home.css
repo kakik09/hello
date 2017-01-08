@@ -3,7 +3,9 @@
   left: 0;
   top: 100px;
   padding: 5px;
+}
 
+.my-sidenav-content {
   display: flex;
   flex-direction: column;
 }

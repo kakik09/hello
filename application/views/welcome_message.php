@@ -200,8 +200,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 <div class="my-sidenav card grey lighten-1">
-
-  <div class="card-content">
+  <div class="my-sidenav-content card-content">
     <a class="my-sidenav-link waves-effect waves-teal btn-flat">1</a>
     <a class="my-sidenav-link waves-effect waves-teal btn-flat">2</a>
     <a class="my-sidenav-link waves-effect waves-teal btn-flat">3</a>

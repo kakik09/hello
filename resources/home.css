@@ -1,3 +1,9 @@
+nav {
+  position: fixed;
+  top: 0;
+  box-shadow: 0 0 8px black;
+}
+
 .my-sidenav {
   position: fixed;
   left: 0;
@@ -12,4 +18,24 @@
 
 .my-sidenav-link {
   font-size: 8pt;
+}
+
+.my-view {
+  background-image: url("images/maxresdefault.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.my-view-block {
+  height: 100vh;
+  font-family: Poppins; 
+  background-color: #000000;
+  color: white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }

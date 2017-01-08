@@ -37,164 +37,164 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
   </nav>
 
+  <div class="my-view">
+    <div class="my-view-block">
+      <div 
+        style="
+          text-align: center; 
+          font-family: Poppins; 
+          background-color: #000000;
+          color: white;"
+      >
+        <h3 
+          style="
+            margin-top: 0px; 
+            padding-top: 20px;
+            font-size: 20px;"
+        >
 
-  <div class="fixed-bg"></div>
+        Does the Philippines have a
 
-	<div 
-		style="
-			text-align: center; 
-			font-family: Poppins; 
-			background-color: #000000;
-			color: white;"
-	>
-		<h3 
-			style="
-				margin-top: 0px; 
-				padding-top: 20px;
-				font-size: 20px;"
-		>
+        </h3>
 
-		Does the Philippines have a
+        <h1 
+          style="
+            margin-bottom: 0px; 
+            padding-bottom: 20px;
+            font-size: 50px;"
+        >
 
-		</h3>
+        DRUG PROBLEM?
 
-		<h1 
-			style="
-				margin-bottom: 0px; 
-				padding-bottom: 20px;
-				font-size: 50px;"
-		>
+        </h1>
 
-		DRUG PROBLEM?
+      </div>
+    </div>
 
-		</h1>
+    <div class="my-view-block">
+      <div 
+        style="
+          text-align: left; 
+          font-family: Poppins; 
+          background-color: #000000;
+          color: white;"
+      >
+        <h3 
+          style="
+            margin-top: 0px; 
+            padding-top: 20px;
+            padding-left: 20%;"
 
-	</div>
+        >
 
-	<div class="fixed-bg"></div>
+        There were a total of
 
-	<div 
-		style="
-			text-align: left; 
-			font-family: Poppins; 
-			background-color: #000000;
-			color: white;"
-	>
-		<h3 
-			style="
-				margin-top: 0px; 
-				padding-top: 20px;
-				padding-left: 20%;"
+        </h3>
 
-		>
+        <h1 
+          style="
+            margin-bottom: 0px; 
+            padding-left: 20%;
+            font-size: 50px;"
+        >
 
-		There were a total of
+        5,402 drug users admitted
 
-		</h3>
+        </h1>
 
-		<h1 
-			style="
-				margin-bottom: 0px; 
-				padding-left: 20%;
-				font-size: 50px;"
-		>
+        <h3 
+          style="
+            margin-bottom: 0px; 
+            padding-bottom: 20px;
+            padding-left: 20%;"
+        >
 
-		5,402 drug users admitted
+        to rehabilitation facilities in 2015 alone.
 
-		</h1>
+        </h3>
 
-		<h3 
-			style="
-				margin-bottom: 0px; 
-				padding-bottom: 20px;
-				padding-left: 20%;"
-		>
+      </div>
+    </div>
 
-		to rehabilitation facilities in 2015 alone.
+    <div class="my-view-block">
+      <div 
+        style="
+          text-align: right; 
+          font-family: Poppins; 
+          background-color: #000000;
+          color: white;"
+      >
 
-		</h3>
+      <h3 
+          style="
+            margin-top: 0px; 
+            padding-top: 20px;
+            padding-right: 20%;"
 
-	</div>
+        >
+
+        Among the substances abused were
+
+        </h3>
+
+        <h1 
+          style="
+            margin-bottom: 0px; 
+            padding-right: 20%;
+            font-size: 50px;"
+        >
+
+        Shabu, Marijuana, and Cocaine
+
+        </h1>
+
+        <h3 
+          style="
+            margin-bottom: 0px; 
+            padding-bottom: 20px;
+            padding-right: 20%;"
+        >
 
 
-	<div class="fixed-bg"></div>
 
-	<div 
-		style="
-			text-align: right; 
-			font-family: Poppins; 
-			background-color: #000000;
-			color: white;"
-	>
+        </h3>
 
-	<h3 
-			style="
-				margin-top: 0px; 
-				padding-top: 20px;
-				padding-right: 20%;"
 
-		>
+      </div>
+    </div>
 
-		Among the substances abused were
+    <div class="my-view-block">
+      <div 
+        style="
+          text-align: center; 
+          font-family: Poppins; 
+          background-color: #000000;
+          color: white;"
+      >
+        <h3 
+          style="
+            margin-top: 0px; 
+            padding-top: 20px;"
+        >
 
-		</h3>
+        Learn more about drug abuse
 
-		<h1 
-			style="
-				margin-bottom: 0px; 
-				padding-right: 20%;
-				font-size: 50px;"
-		>
+        </h3>
 
-		Shabu, Marijuana, and Cocaine
+        <h1 
+          style="
+            margin-bottom: 0px; 
+            padding-bottom: 20px;
+            font-size: 50px;"
+        >
 
-		</h1>
+        NOW
 
-		<h3 
-			style="
-				margin-bottom: 0px; 
-				padding-bottom: 20px;
-				padding-right: 20%;"
-		>
+        </h1>
 
-		 
-
-		</h3>
-
-		
-	</div>
-
-	<div class="fixed-bg"></div>
-
-	<div 
-		style="
-			text-align: center; 
-			font-family: Poppins; 
-			background-color: #000000;
-			color: white;"
-	>
-		<h3 
-			style="
-				margin-top: 0px; 
-				padding-top: 20px;"
-		>
-
-		Learn more about drug abuse
-
-		</h3>
-
-		<h1 
-			style="
-				margin-bottom: 0px; 
-				padding-bottom: 20px;
-				font-size: 50px;"
-		>
-
-		NOW
-
-		</h1>
-
-	</div>
+      </div>
+    </div>
+  </div>
 
 
 

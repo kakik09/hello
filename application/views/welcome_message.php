@@ -37,7 +37,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </div>
   </nav>
 
-  <div class="my-view">
+  <div class="my-view" style="background-image: url("images/maxresdefault.jpg");">
     <div class="my-view-block">
       <div 
         style="
@@ -201,10 +201,30 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 <div class="my-sidenav card grey lighten-1">
   <div class="my-sidenav-content card-content">
-    <a class="my-sidenav-link waves-effect waves-teal btn-flat">1</a>
-    <a class="my-sidenav-link waves-effect waves-teal btn-flat">2</a>
-    <a class="my-sidenav-link waves-effect waves-teal btn-flat">3</a>
-    <a class="my-sidenav-link waves-effect waves-teal btn-flat">4</a>
+    <a
+      href="#alpha"
+      class="my-sidenav-link waves-effect waves-teal btn-flat"
+    >
+      1
+    </a>
+    <a
+      href="#bravo"
+      class="my-sidenav-link waves-effect waves-teal btn-flat"
+    >
+      2
+    </a>
+    <a
+      href="#charlie"
+      class="my-sidenav-link waves-effect waves-teal btn-flat"
+    >
+      3
+    </a>
+    <a
+      href="#delta"
+      class="my-sidenav-link waves-effect waves-teal btn-flat"
+    >
+      4
+    </a>
   </div>
 </div>
 </body>
